@@ -1,1 +1,0 @@
-ComfyUI workflows for facial image inpainting, restoration and super-resolution, with experimental evaluation using ArcFace and BRISQUE.
